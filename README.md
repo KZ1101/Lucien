@@ -1,2 +1,3 @@
 # Lucien
-tentative
+for test
+to use trial and error
